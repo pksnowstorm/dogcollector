@@ -76,10 +76,10 @@ WSGI_APPLICATION = 'dogcollector.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgres',
-        'NAME': 'pksnowstorm/dogcollector',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'pksnowstorm/dogcollector2',
         'USER': 'pksnowstorm',
-        'PASSWORD': 'v2_43WzY_iacsHxDfQGgZtCftDhh4wDJ',
+        'PASSWORD': 'v2_43X3R_zavhrv2CxS4uwxRherd84p7',
         'HOST': 'db.bit.io',
         'PORT': '5432',
     }
